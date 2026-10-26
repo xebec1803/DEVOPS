@@ -1,0 +1,36 @@
+DAY 8 MACHINE TEST – Linux Troubleshooting &
+Real DevOps Commands
+
+
+PART 1 – Linux Fundamentals & Server Health
+Check
+1. Explain whoami.
+this command will tells us which user is logged in the Linux terminal
+
+2. Explain hostname.
+this command will display the name of our computer
+
+3. Why is uptime important during troubleshooting?
+the uptime command will shows how much time the Linux has been running in a day.
+
+4. Explain df -h and its DevOps usage.
+df-h command shows the available space to chech whether we have space or not to deploy our project.
+
+
+5. Explain free -h and its output.
+free -h command is for to show the available ram memory in our system
+
+6. Explain top and its importance.
+top command will shows the real time system monitoring tool.If there is a trouble shoot in our cpu or memory using this command we will know which is consuming more of the cpu
+
+
+7. Explain systemctl --failed.
+this command will showcase whether there is any service is in a failed state 
+
+
+8. Explain journalctl -p err -n 20 and its usage.
+the command shows the recent 20 logs which are in error priority.it helps in log troubleshooting
+
+
+
+ou
